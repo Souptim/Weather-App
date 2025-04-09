@@ -12,7 +12,7 @@ Stay up to date with the latest weather conditions in your city with this respon
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework for styling
 - [shadcn/ui](https://ui.shadcn.com/) – Beautifully designed, customizable components
 - [OpenWeather API](https://openweathermap.org/api) – Real-time weather data
-- [TypeScript](https://www.typescriptlang.org/) *(optional)* – Strongly typed JavaScript (if used)
+- [TypeScript](https://www.typescriptlang.org/) *(optional)* – Strongly typed JavaScript
 
 ---
 
@@ -31,8 +31,8 @@ Stay up to date with the latest weather conditions in your city with this respon
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+git clone https://github.com/Souptim/Weather-App.git
+cd Weather-App
 ```
 
 ### 2. Install dependencies
